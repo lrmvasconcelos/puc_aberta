@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cursos"
+            android:icon="@drawable/ic_cursos"
+            android:title="@string/menu_drawer_cursos" />
+        <item
+            android:id="@+id/nav_programacao"
+            android:icon="@drawable/ic_programacao"
+            android:title="@string/menu_drawer_programacao" />
+        <item
+            android:id="@+id/nav_mapa"
+            android:icon="@drawable/ic_mapa"
+            android:title="@string/menu_drawer_mapa" />
+        <item
+            android:id="@+id/nav_sobre"
+            android:icon="@drawable/ic_sobre"
+            android:title="@string/menu_drawer_sobre" />
+    </group>
+
+</menu>

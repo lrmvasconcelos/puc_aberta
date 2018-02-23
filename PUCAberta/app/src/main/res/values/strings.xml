@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PUC Aberta</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_help">Releitura de QRCode</string>
+    <string name="menu_drawer_cursos">Cursos</string>
+    <string name="menu_drawer_programacao">Programação</string>
+    <string name="menu_drawer_QRCode">QR Code</string>
+    <string name="menu_drawer_mapa">Mapa</string>
+    <string name="menu_drawer_sobre">Sobre</string>
+    <string name="sem_conexao_internet">Não foi possível carregar página. Verifique sua conexão com a internet</string>
+    <string name="conexao_internet_habilitada">Carregando página de cursos ...</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="fragment_cursos_txt_1">Você está off-line.</string>
+    <string name="fragment_cursos_txt_2">Verifique sua conexão com a internet e tente novamente</string>
+
+    <string name="sobre">
+        "Aplicativo PUC Aberta \nversão 1.0 \n\nEquipe:\nLucas Rafael Madeira Vasconcelos \nAluno do Ciência da Computação - Coração Eucarístico \n\nProf. Felipe Domingos da Cunha e Prof. Max do Val Machado \nProfessores do Departamento de Ciência da Computação - ICEI"
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
